@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832977031515",
+    "project_id": "brute-force-army",
+    "storage_bucket": "brute-force-army.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832977031515:android:0c98ca25a1b6933903ca7e",
+        "android_client_info": {
+          "package_name": "com.example.brute_force_army"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832977031515-cu1akm9oognoqkdv2ttroumkr7jgpaad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdEEyFpO_nCppJsD71ZZ5XWTuNxz1U6c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832977031515-cu1akm9oognoqkdv2ttroumkr7jgpaad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
